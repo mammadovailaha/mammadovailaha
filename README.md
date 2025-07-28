@@ -28,7 +28,7 @@ Currently learning **Next.js** and **Node.js** to transition into a **Full-Stack
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -41,6 +41,9 @@ Currently learning **Next.js** and **Node.js** to transition into a **Full-Stack
 - 📧 Email: mammadovailaha03gmail.com  
 - 🌐 Portfolio: https://my-portfolio-woad-three-68.vercel.app/  
 - 💼 LinkedIn: https://www.linkedin.com/in/ilaha-mammadova-0ab538356/
+-<a href="https://www.instagram.com/ilahahub" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" alt="Instagram" />
+</a> <p>ilahahub</p>
 
 
 
