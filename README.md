@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Ilaha</h1>
 
-<!--
-**mammadovailaha/mammadovailaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  A self-motivated and growth-oriented <strong>Junior Front-End Developer</strong> with hands-on experience in real-world projects.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I'm passionate about creating **responsive, user-friendly, and scalable web interfaces** using modern technologies.  
+I specialize in:
+
+- 💻 HTML5, CSS3, JavaScript, TypeScript  
+- ⚛️ React.js & Tailwind CSS  
+- 📁 Git & GitHub in Agile teams  
+
+I'm committed to writing clean, maintainable code and working in collaborative environments.  
+Currently learning **Next.js** and **Node.js** to transition into a **Full-Stack Developer** role.
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</p>
+
+
+## 📫 Contact
+
+- 📧 Email: mammadovailaha03gmail.com  
+- 🌐 Portfolio: https://my-portfolio-woad-three-68.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/ilaha-mammadova-0ab538356/
+
+
+
+## 📊 GitHub Stats (optional)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mammadovailaha&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammadovailaha&layout=compact&theme=radical" height="150" />
+</p>
