@@ -36,14 +36,23 @@ Currently learning **Next.js** and **Node.js** to transition into a **Full-Stack
 </p>
 
 
-## 📫 Contact
+<h2>📫 Contact</h2>
 
-- 📧 Email: mammadovailaha03gmail.com  
-- 🌐 Portfolio: https://my-portfolio-woad-three-68.vercel.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/ilaha-mammadova-0ab538356/
--<a href="https://www.instagram.com/ilahahub" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" height="30" alt="Instagram" />
-</a> <p>ilahahub</p>
+<p align="left">
+  <a href="mammadovailaha03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://my-portfolio-woad-three-68.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ilaha-mammadova-0ab538356/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ilahahub" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
 
 
 
