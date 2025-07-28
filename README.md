@@ -60,5 +60,6 @@ Currently learning **Next.js** and **Node.js** to transition into a **Full-Stack
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mammadovailaha&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammadovailaha&layout=compact&theme=radical" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=mammadovailaha&show_icons=true&theme=radical&count_private=true" />
+
 </p>
