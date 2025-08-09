@@ -13,7 +13,7 @@ I specialize in:
 
 - 💻 HTML5, CSS3, JavaScript, TypeScript  
 - ⚛️ React.js & Tailwind CSS  
-- 📁 Git & GitHub in Agile teams  
+- 📁 Git & GitHub  
 
 I'm committed to writing clean, maintainable code and working in collaborative environments.  
 Currently learning **Next.js** and **Node.js** to transition into a **Full-Stack Developer** role.
