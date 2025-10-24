@@ -12,7 +12,7 @@ I'm passionate about creating **responsive, user-friendly, and scalable web inte
 I specialize in:
 
 - 💻 HTML5, CSS3, JavaScript, TypeScript  
-- ⚛️ React.js & Tailwind CSS  
+- ⚛️ React.js, Next.js & Tailwind CSS  
 - 📁 Git & GitHub  
 
 I'm committed to writing clean, maintainable code and working in collaborative environments.  
