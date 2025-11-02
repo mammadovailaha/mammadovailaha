@@ -46,7 +46,7 @@
   <a href="mailto:mammadovailaha03@gmail.com">
     <img src="https://img.shields.io/badge/Email-f97316?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href=" https://mammadovailahaportfolio.vercel.app/">
+  <a href="https://mammadovailahaportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=f97316" />
   </a>
   <a href="https://www.linkedin.com/in/ilaha-mammadova-0ab538356/">
