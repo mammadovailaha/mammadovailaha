@@ -43,16 +43,16 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:mammadovailah03@gmail.com">
+  <a href="mailto:mammadovailah03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-f97316?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mammadovailahaportfolio.vercel.app/">
+  <a href="https://ilaha-mammadova-portflio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=f97316" />
   </a>
-  <a href="https://www.linkedin.com/in/ilaha-mammadova-0ab538356/">
+  <a href="https://www.linkedin.com/in/ilaha-mammadova-0ab538356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-f97316?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ilahahub">
+  <a href="https://www.instagram.com/ilahahub" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-f97316?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
